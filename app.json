@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "5f60ab3b-78ed-4aa8-ba13-db1da37c9395"
+      }
+    },
+    "owner": "rupal_patel"
   }
 }
